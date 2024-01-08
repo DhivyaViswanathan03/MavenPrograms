@@ -1,0 +1,11 @@
+in.ineuron.BootLoggingusingLog4JApplication 502 main  INFO  Starting BootLoggingusingLog4JApplication using Java 11.0.17 on PC0N80E8 with PID 10544 (C:\Users\Navis\MavenPrograms\BootLoggingusingLog4J\target\classes started by Navis in C:\Users\Navis\MavenPrograms\BootLoggingusingLog4J) 2023-07-21 14:42:37,361  
+ in.ineuron.BootLoggingusingLog4JApplication 505 main  INFO  No active profile set, falling back to 1 default profile: "default" 2023-07-21 14:42:37,364  
+ in.ineuron.BootLoggingusingLog4JApplication 1024 main  INFO  Started BootLoggingusingLog4JApplication in 0.886 seconds (JVM running for 1.655) 2023-07-21 14:42:37,883  
+ in.ineuron.component.Student 1027 main  DEBUG  Entering into CourseDetails:: 2023-07-21 14:42:37,886  
+ in.ineuron.component.Student 1030 main  INFO  Entering into UI course:: 2023-07-21 14:42:37,889  
+ in.ineuron.BootLoggingusingLog4JApplication 792 main  INFO  Starting BootLoggingusingLog4JApplication using Java 11.0.17 on PC0N80E8 with PID 9676 (C:\Users\Navis\MavenPrograms\BootLoggingusingLog4J\target\classes started by Navis in C:\Users\Navis\MavenPrograms\BootLoggingusingLog4J) 2023-07-21 14:59:23,196  
+ in.ineuron.BootLoggingusingLog4JApplication 796 main  INFO  No active profile set, falling back to 1 default profile: "default" 2023-07-21 14:59:23,200  
+ in.ineuron.BootLoggingusingLog4JApplication 1541 main  INFO  Started BootLoggingusingLog4JApplication in 1.3 seconds (JVM running for 2.355) 2023-07-21 14:59:23,945  
+ in.ineuron.component.Student 1547 main  DEBUG  Entering into CourseDetails:: 2023-07-21 14:59:23,951  
+ in.ineuron.component.Student 1547 main  INFO  Entering into UI course:: 2023-07-21 14:59:23,951  
+ 
